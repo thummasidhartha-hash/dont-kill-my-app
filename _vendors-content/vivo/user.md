@@ -1,4 +1,4 @@
----
+panda touch pro---
 manufacturer: 
     - vivo
 
